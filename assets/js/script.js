@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded',function () {
             var autoplay = document.createAttribute("autoplay");
             var loop = document.createAttribute("loop");
             
-            audio.setAttribute('src',"source/tone.mp3");
+            audio.setAttribute('src',"assets/tone.mp3");
             audio.setAttribute('id',"tone")
             audio.setAttributeNode(autoplay);
             audio.setAttributeNode(loop);
