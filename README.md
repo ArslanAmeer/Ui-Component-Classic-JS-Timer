@@ -5,6 +5,6 @@ Basic Easy To Understand Timer Made with Pure HTML5, CSS & Javascript which take
 
 ![](assets/images/timerdemo.png)
 
-**TRY IT NOW**: [Basic-JS-Timer](https://arslanameer.github.io/Classic-JS-Timer/)
+**TRY IT NOW**: [Basic-JS-Timer](https://arslanameer.github.io/Ui-Component-Classic-JS-Timer/)
 
 _(Arslan Ameer)_
